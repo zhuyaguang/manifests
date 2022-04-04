@@ -107,9 +107,6 @@ images:
   newName: togettoyou/gcr.io.ml-pipeline.workflow-controller
   newTag: v3.1.6-patch-license-compliance
 
-- name: public.ecr.aws/j1r0q0g6/notebooks/notebook-controller
-  newName: goodpp/notebook-controller
-  newTag: v1.4
 - name: public.ecr.aws/j1r0q0g6/notebooks/admission-webhook
   newName: goodpp/admission-webhook
   newTag: v1.4
@@ -121,9 +118,6 @@ images:
   newTag: v1.4
 - name: public.ecr.aws/j1r0q0g6/notebooks/access-management
   newName: goodpp/access-management
-  newTag: v1.4
-- name: public.ecr.aws/j1r0q0g6/notebooks/profile-controller
-  newName: goodpp/profile-controller
   newTag: v1.4
 - name: public.ecr.aws/j1r0q0g6/notebooks/tensorboards-web-app
   newName: goodpp/tensorboards-web-app
