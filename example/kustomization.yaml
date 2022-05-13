@@ -62,7 +62,7 @@ images:
   newName: zhuyaguang/public.ecr.aws.j1r0q0g6.notebooks.tensorboard-controller
   newTag: v1.5.0
 - name: gcr.io/ml-pipeline/minio
-  newName: togettoyou/gcr.io.ml-pipeline.minio
+  newName: zhuyaguang/gcr.io.ml-pipeline.minio
   newTag: RELEASE.2019-08-14T20-37-41Z-license-compliance
 - name: gcr.io/ml-pipeline/cache-deployer
   newName: togettoyou/gcr.io.ml-pipeline.cache-deployer
@@ -101,7 +101,7 @@ images:
   newName: togettoyou/gcr.io.ml-pipeline.visualization-server
   newTag: 1.8.1
 - name: gcr.io/ml-pipeline/mysql
-  newName: togettoyou/gcr.io.ml-pipeline.mysql
+  newName: zhuyaguang/gcr.io.ml-pipeline.mysql
   newTag: "5.7"
 - name: gcr.io/ml-pipeline/workflow-controller
   newName: togettoyou/gcr.io.ml-pipeline.workflow-controller
